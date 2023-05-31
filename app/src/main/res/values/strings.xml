@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternetSpeedChecker</string>
+    <string name="downlink_speed">DOWNLINK SPEED</string>
+    <string name="uplink_speed">UPLINK SPEED</string>
+</resources>
